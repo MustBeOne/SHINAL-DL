@@ -1,0 +1,1 @@
+#include "CModuleBase.h"
